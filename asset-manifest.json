@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/D1yar007/Resume.git/static/css/main.e65a1344.css",
+    "main.js": "/D1yar007/Resume.git/static/js/main.966693a3.js",
+    "index.html": "/D1yar007/Resume.git/index.html",
+    "main.e65a1344.css.map": "/D1yar007/Resume.git/static/css/main.e65a1344.css.map",
+    "main.966693a3.js.map": "/D1yar007/Resume.git/static/js/main.966693a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e65a1344.css",
+    "static/js/main.966693a3.js"
+  ]
+}
